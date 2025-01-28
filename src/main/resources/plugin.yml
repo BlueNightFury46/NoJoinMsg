@@ -1,0 +1,7 @@
+name: NoJoinMsg
+version: '1.0a'
+main: dev.bluenightfury46.noJoinMsg.NoJoinMsg
+api-version: '1.21'
+authors: [ BlueNightFury46 ]
+description: 'Just a plugin that removes join and leave messages so you do not have to make your own solution'
+website: bluenightfury46.dev
